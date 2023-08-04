@@ -44,3 +44,4 @@ export const TimeLineData = [
   { year: 2020, text: 'Signed as a professional Valorant player', },
   { year: 2022, text: 'Self taught Front End & continuing to expand', },
 ];
+.
