@@ -26,4 +26,3 @@ const Acomplishments = () => (
 );
 
 export default Acomplishments;
-.
