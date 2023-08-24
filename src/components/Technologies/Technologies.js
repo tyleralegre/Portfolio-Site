@@ -21,6 +21,12 @@ const Technologies = () =>  (
           <ListParagraph>
             Experiece with <br />
             React.js
+            <br/>
+            Html
+            <br/>
+            JavaScript
+            <br/>
+            Css
           </ListParagraph>
         </ListContainer>
       </ListItem>
