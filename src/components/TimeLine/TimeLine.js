@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Aspiring front end developer coming from a customer service background utilizing my acquired skills to bring life to sites.
+      Hello, I'm a self-taught developer from Guam and currently located in Orange County, CA. I specialize in front-end development, transitioning from a customer service background to skillfully breathe life into websites using the expertise I've gained.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
