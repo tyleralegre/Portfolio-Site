@@ -22,8 +22,8 @@ export const projects = [
     description: "A simple but fun intense number generating app that allows you to choose sides based on intuition. A high or low odd betting simulator!",
       image: '/images/3.png',
       tags: ['HTML', 'CSS'],
-      source: 'https://google.com',
-      visit: 'https://google.com',
+      source: 'https://github.com/tyleralegre/High-Low-Number-App',
+      visit: 'https://github.com/tyleralegre/High-Low-Number-App',
     id: 2,
   },
   //{
