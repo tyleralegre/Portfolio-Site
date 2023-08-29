@@ -31,8 +31,8 @@ export const projects = [
     description: "A straightforward goal list allowing you to add/remove goals easily. ",
     image: '/images/4.png',
     tags: ['React', 'JavaScript', 'CSS'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/tyleralegre/Goal-List',
+    visit: 'https://github.com/tyleralegre/Goal-List',
     id: 3,
   },
 ];
