@@ -18,23 +18,23 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'RNG App',
+    description: "A simple but fun intense number generating app that allows you to choose sides based on intuition. A high or low odd betting simulator!",
+      image: '/images/3.png',
+      tags: ['HTML', 'CSS'],
+      source: 'https://google.com',
+      visit: 'https://google.com',
     id: 2,
   },
-  {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 3,
-  },
+  //{
+    //title: 'Unichat',
+    //description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    //image: '/images/4.jpg',
+    //tags: ['React', 'ChatEngine', 'Firebase'],
+    //source: 'https://google.com',
+    //visit: 'https://google.com',
+    //id: 3,
+  //},
 ];
 
 export const TimeLineData = [
