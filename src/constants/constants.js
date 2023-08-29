@@ -1,16 +1,16 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Admin Dashboard',
+    description: "Using React to create this Admin Panel that includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts! This is the perfect tool for organizing a community of members for the work space!       "    ,
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
+      tags: ['React', 'JavaScript', 'CSS'],
+    source: 'https://github.com/tyleralegre/admin-dash',
     visit: 'https://google.com',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'FitnessFinder',
+    description:"With the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more, FitnessFinder is the best free React Fitness App that you can currently find     ",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
