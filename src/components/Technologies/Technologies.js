@@ -37,7 +37,11 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node 
+            <br></br>
+            Databases
+            <br>
+            </br>API
           </ListParagraph>
         </ListContainer>
       </ListItem>

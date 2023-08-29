@@ -1,20 +1,20 @@
 export const projects = [
   {
     title: 'Admin Dashboard',
-    description: "Using React to create this Admin Panel that includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts! This is the perfect tool for organizing a community of members for the work space!       "    ,
+    description: "Using React to create this Admin Panel that includes one Dashboard, fully functional calendar, a kanban board, a WYSIWYG editor, a color picker Three Pages, Four Apps, and Seven fully functional charts! This is the perfect tool for organizing a community of members for the work space!       "    ,
       image: '/images/1.png',
-      tags: ['React', 'JavaScript', 'CSS'],
-    source: 'https://github.com/tyleralegre/admin-dash',
-    visit: 'https://google.com',
+      tags: ['React', 'JavaScript', "Syncfusion", "Context API"],
+    source: 'https://syncadmin-dashboard.netlify.app/',
+    visit: 'https://github.com/tyleralegre/admin-dash',
     id: 0,
   },
   {
     title: 'FitnessFinder',
     description:"With the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more, FitnessFinder is the best free React Fitness App that you can currently find     ",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    tags: ['React', 'JavaScript', 'RapidAPI'],
+    source: 'https://tys-gym-app.netlify.app/',
+    visit: 'https://github.com/tyleralegre/gym_exercises',
     id: 1,
   },
   {
