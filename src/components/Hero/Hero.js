@@ -3,6 +3,7 @@ import React from 'react';
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
+import Link from 'next/link';
 
 const Hero = (props) => (
   <>
@@ -15,7 +16,9 @@ const Hero = (props) => (
         <SectionText>
         Showcasing my developments within the last year of learning the ins and outs of front end!
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More Below</Button>
+        <Link href="#projects"><Button onClick={props.handleClick}>
+        Learn More
+        </Button></Link>
       </LeftSection>
     </Section>
   </>
