@@ -88,6 +88,14 @@ export const UtilityList = styled.ul`
   margin: 2.5rem 0;
 `;
 
+export const UtilityListt = styled.ul`
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  margin: 2.5rem 0;
+`;
+
 export const ExternalLinks = styled.a`
 color:#d4c0c0;
 font-size: 1.6rem;
